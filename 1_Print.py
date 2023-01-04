@@ -1,1 +1,1 @@
-print("I love u kamalaika")
+print("I love u food")
